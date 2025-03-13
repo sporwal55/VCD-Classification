@@ -1,0 +1,4 @@
+exdes_tb.exdes_top.m_axis_tvalid 
+exdes_tb.exdes_top.m_axis_tlast 
+exdes_tb.exdes_top.m_axis_tready 
+exdes_tb.exdes_top.aclk CLOCK
